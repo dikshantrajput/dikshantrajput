@@ -66,7 +66,7 @@ Software Developer with strong skills in full stack development, quick learner, 
 An assistant for google meet chats.
 - **Tech Stack:**  Sveltekit, Postgres, Browser Extension
 - **Key Features:** Intelligent Capture, Smart organization, Privacy First
-- 
+
 ### [NeighborHoodShare](https://github.com/dikshantrajput/NeighborHoodShare)
 A secure peer-to-peer file sharing application with end-to-end encryption.
 - **Tech Stack:** Peerjs, Sveltekit
