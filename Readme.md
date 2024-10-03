@@ -117,9 +117,6 @@ An anonymous, location-based messaging application.
   <a href="mailto:dikshantraj2001@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://dikshantrajput.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
