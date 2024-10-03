@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="mailto:dikshantraj2001@gmail.com"><img src="https://img.shields.io/badge/Email-dikshantraj2001%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://dikshantrajput.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-dikshantrajput.github.io-cyan?style=flat-square&logo=github"></a>
   <a href="https://linkedin.com/in/dikshant-rajput-072228193"><img src="https://img.shields.io/badge/LinkedIn-Dikshant%20Rajput-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/dikshantrajput"><img src="https://img.shields.io/badge/GitHub-dikshantrajput-lightgrey?style=flat-square&logo=github"></a>
   <a href="https://dikshantraj2001.medium.com"><img src="https://img.shields.io/badge/Medium-dikshantraj2001-black?style=flat-square&logo=medium"></a>
