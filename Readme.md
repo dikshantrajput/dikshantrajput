@@ -81,7 +81,7 @@ An anonymous, location-based messaging application.
 - **Tech Stack:** SvelteKit, Tailwind CSS, Supabase, Postgis postgresql extension
 - **Key Features:** Anonymous Messaging, Location-Based Content
 
-### [Onbo](https://github.com/dikshantrajput/geowhisper) (Employee Onboarding And Enablement Platform)
+### [Onbo](https://onbo.today/) (Employee Onboarding And Enablement Platform)
 - Created backend services using Django, PostgreSQL, Express.js, Keycloak, and Postgrest
 - Integrated APIs in frontend using SvelteKit
 - Implemented AI-driven personalized learning paths
