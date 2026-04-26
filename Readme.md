@@ -61,7 +61,7 @@ Software Developer with strong skills in full stack development, quick learner, 
 
 ## 🏆 Projects
 
-### [MeetCaddy](https://meetcaddy.online/)
+### [MeetCaddy](https://meetwithcaddy.vercel.app/)
 An assistant for google meet chats.
 - **Tech Stack:**  Sveltekit, Postgres, Browser Extension
 - **Key Features:** Intelligent Capture, Smart organization, Privacy First
