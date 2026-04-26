@@ -76,7 +76,7 @@ A browser extension to enhance YouTube viewing experience by managing ads.
 - **Tech Stack:** JavaScript, Browser Extension APIs
 - **Key Features:** Automatic Ad Skipping, Ad Acceleration, Multi-Browser Support
 
-### [GeoWhisper](https://github.com/dikshantrajput/geowhisper)
+### [[GeoWhisper](https://github.com/dikshantrajput/geo-whisper)]
 An anonymous, location-based messaging application.
 - **Tech Stack:** SvelteKit, Tailwind CSS, Supabase, Postgis postgresql extension
 - **Key Features:** Anonymous Messaging, Location-Based Content
